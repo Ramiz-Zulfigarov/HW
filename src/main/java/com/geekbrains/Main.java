@@ -40,7 +40,7 @@ public class Main {
 //        }
 //    }
 //    public static void compareNumbers(){
-//        int a = 10;
+//        int a = 11;
 //        int b = 15;
 //        if (a > b){
 //            System.out.println("a >= b");
